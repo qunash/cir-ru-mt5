@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cir-ru_mt5.iml" filepath="$PROJECT_DIR$/.idea/cir-ru_mt5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cir-ru_mt5-pre-trained/.idea/cir-ru_mt5-pre-trained.iml" filepath="$PROJECT_DIR$/../cir-ru_mt5-pre-trained/.idea/cir-ru_mt5-pre-trained.iml" />
     </modules>
   </component>
 </project>
