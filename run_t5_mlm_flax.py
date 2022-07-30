@@ -467,8 +467,8 @@ def write_eval_metric(summary_writer, eval_metrics, step):
 
 def main():
 
-    import jax.tools.colab_tpu
-    jax.tools.colab_tpu.setup_tpu()
+    # import jax.tools.colab_tpu
+    # jax.tools.colab_tpu.setup_tpu()
 
     # See all possible arguments in src/transformers/training_args.py
     # or by passing the --help flag to this script.
